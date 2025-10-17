@@ -27,7 +27,7 @@ def get_me():
     result = {
         "status": "success",
         "user": {
-            "email": "olumuyiwaolu@example.com", 
+            "email": "olumuyiwa69@yahoo.com", 
             "name": "Olumuyiwa Olu",
             "stack": "Python/Flask"
         },
